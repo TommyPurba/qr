@@ -1,0 +1,43 @@
+body
+{
+    background-image: url(/img/kobs.png);
+    background-size: cover;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    display: grid;
+}
+
+.grid
+{
+    display: flex;
+    background-color: hsl(212, 45%, 89%);
+    height: 650px;
+    width: 1000px;
+    margin: 10px auto 10px auto;
+}
+.flex
+{
+    
+    margin: auto;
+    height: 450px;
+    width: 300px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5%;
+    text-align: center;
+}
+img
+{
+    height: 250px;
+    width: 250px;
+   margin-top: 20px;
+}
+.ruang
+{
+    width: 200px;
+    height: 100px;
+    margin: auto;
+}
+p
+{
+    color: hsl(217, 11%, 55%);
+}
